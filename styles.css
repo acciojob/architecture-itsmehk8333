@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px
+}
+
+.td-1{
+	width:200px
+}
+.td-3{
+	width:200px
+}
+.td-2{
+	width:600px;
+}
+	
